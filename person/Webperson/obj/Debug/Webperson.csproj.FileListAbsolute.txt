@@ -109,7 +109,6 @@ C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\bin\Microsoft.Owin.Se
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\bin\System.Web.Http.Owin.xml
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\obj\Debug\Webperson.csprojAssemblyReference.cache
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\obj\Debug\Webperson.csproj.CoreCompileInputs.cache
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\obj\Debug\Webperson.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\practica12\person\Webperson\obj\Debug\Webperson.dll

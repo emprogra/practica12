@@ -12,5 +12,7 @@ namespace Webperson.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<Webperson.Models.persona> personas { get; set; }
     }
 }
