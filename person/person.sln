@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webperson", "Webperson\Webperson.csproj", "{ECF633B4-6CB0-4158-AFEA-AE226CBA7013}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personatoken", "Personatoken\Personatoken.csproj", "{ADC19DE5-962D-4B36-8DC0-37AF65A1C1D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECF633B4-6CB0-4158-AFEA-AE226CBA7013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF633B4-6CB0-4158-AFEA-AE226CBA7013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF633B4-6CB0-4158-AFEA-AE226CBA7013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC19DE5-962D-4B36-8DC0-37AF65A1C1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC19DE5-962D-4B36-8DC0-37AF65A1C1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC19DE5-962D-4B36-8DC0-37AF65A1C1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC19DE5-962D-4B36-8DC0-37AF65A1C1D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
