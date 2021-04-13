@@ -113,3 +113,4 @@ C:\Users\Emily HP\Source\Repos\practica12\Work\Trabajo1\obj\Debug\Trabajo1.cspro
 C:\Users\Emily HP\Source\Repos\practica12\Work\Trabajo1\obj\Debug\Trabajo1.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\practica12\Work\Trabajo1\obj\Debug\Trabajo1.dll
 C:\Users\Emily HP\Source\Repos\practica12\Work\Trabajo1\obj\Debug\Trabajo1.pdb
+C:\Users\Emily HP\Source\Repos\practica12\Work\Trabajo1\obj\Debug\Trabajo1.csprojAssemblyReference.cache
