@@ -13,5 +13,6 @@ namespace Trabajo1.Models
 
         }
 
+        public System.Data.Entity.DbSet<Trabajo1.Models.Person> People { get; set; }
     }
 }
